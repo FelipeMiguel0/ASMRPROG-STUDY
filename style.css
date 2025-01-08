@@ -566,4 +566,23 @@ footer .right p{
         font-size: 13px;
     }
 
+    nav .links a{
+        font-size: 12px;
+    }
+
+    nav .login button{
+        font-size: 10px;
+        padding: 6px 1px;
+        
+    }
+
+    nav .login button.signup {
+        font-size: 10px;
+    }
+
+    .nft-shop .category {
+        flex-wrap: wrap;
+    }
+
+
 }
